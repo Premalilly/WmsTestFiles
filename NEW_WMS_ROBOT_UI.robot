@@ -25,13 +25,12 @@ TestLogin
 Test Dashboard
     
     Title Should Be    Dashboard | Ruckus WMS
-    Page Should Contain    Dashboard
-    Page Should Contain    Client Sessions
-    Page Should Contain    Controllers by Country
-    Page Should Contain    Operating Systems
-    Page Should Contain    Access Points
-    Page Should Contain    Controllers
-    Page Should Contain    Events
+    Page Should Contain     Dashboard
+    Page Should Contain     Client Sessions
+    Page Should Contain     Operating Systems
+    Page Should Contain     Access Points
+    Page Should Contain     Controllers
+    Page Should Contain     Events
     Click home button
 
 Comparing Of Two Numbers
